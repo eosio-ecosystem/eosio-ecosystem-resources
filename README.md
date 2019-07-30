@@ -19,16 +19,24 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 
 * [tokenconfigs](https://github.com/eosio-standards-wg/tokenconfigs) is a standard proposal for all NFT smart contracts in order to help third party software in recognizing them. The standard was proposed by Scatter team and is implemented in several NFT contracts.
 
+
+
 ## Smart contracts
 
 * [dGoods](https://dgoods.org/) is an NFT project by Mythical Games.
+
+* [escrowescrow](https://github.com/eos-geneva/escrowescrow), a basic and universal escrow contract that lets buyer and seller agree on goods delivery and payment conditions and execute the deal in a safe manner.
 
 * [SimpleAssets](https://github.com/CryptoLions/SimpleAssets) is an NFT smart contract developed by CryptoLions.
 
 
 ## Block producer tools
 
+* [eos-producer-heartbeat-plugin by LiquidEOS](https://github.com/LiquidEOS/eos-producer-heartbeat-plugin)
+
 ## System monitoring tools
+
+* [Nagios plugins by cc32d9](https://github.com/cc32d9/eos-nagios-plugins)
 
 ## Other
 
