@@ -29,6 +29,6 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 
 ## Other
 
-* [Awesome EOSIO by DanailMinchev](https://github.com/DanailMinchev/awesome-eosio) One more curated list of EOSIO resources
+* [Awesome EOSIO by DanailMinchev](https://github.com/DanailMinchev/awesome-eosio): one more curated list of EOSIO resources
 
-* [Awesome EOSIO Plugins by LiquidApps](https://github.com/liquidapps-io/awesome-eosio-plugins)
+* [Awesome EOSIO Plugins by LiquidApps](https://github.com/liquidapps-io/awesome-eosio-plugins): list of nodeos plugins developed outside of Block.One
