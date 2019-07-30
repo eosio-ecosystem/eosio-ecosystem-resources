@@ -7,6 +7,9 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 
 * [Scatter](https://get-scatter.com/) is the most popular desktop wallet and security manager for EOSIO accounts.
 
+## Cross-chain projects
+
+* [privEOS](https://priveos.io/): a project for storing and managing private data across multiple EOSIO blockchains.
 
 ## Listings and catalogs
 
