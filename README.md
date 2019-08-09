@@ -15,6 +15,8 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 
 * [ScatterNetworks](https://github.com/GetScatter/ScatterNetworks) is a list of EOSIO blockchains in JSON format.
 
+* [tokens.json](https://github.com/eoscafe/eos-airdrops/blob/master/tokens.json) by EOS Cafe Block listing tokens and their logos on multiple chains.
+
 ## Standard proposals
 
 * [tokenconfigs](https://github.com/eosio-standards-wg/tokenconfigs) is a standard proposal for all NFT smart contracts in order to help third party software in recognizing them. The standard was proposed by Scatter team and is implemented in several NFT contracts.
