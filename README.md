@@ -21,7 +21,7 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 
 * [tokenconfigs](https://github.com/eosio-standards-wg/tokenconfigs) is a standard proposal for all NFT smart contracts in order to help third party software in recognizing them. The standard was proposed by Scatter team and is implemented in several NFT contracts.
 
-
+* [EEP-7: Signing Request](https://github.com/eosio-eps/EEPs/blob/master/EEPS/eep-7.md) is a specification of wrapping transaction input in a compact binary form that can be delivered via QR code, URL, NFC tag, email attachment, etc. [Telegram group](https://t.me/eosio_signing_request), [reference implementation](https://github.com/greymass/eosio-signing-transport) are available.
 
 ## Smart contracts
 
