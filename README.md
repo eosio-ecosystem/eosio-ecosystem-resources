@@ -2,6 +2,11 @@
 
 This is a curated list of resources and projects that are aiming multiple EOSIO-based blockchains and are applicable to any EOSIO blockchain.
 
+## Funding
+
+* [eos VC](https://vc.eos.io/) invests in large-scale projects that utilize EOSIO technology. Also their new Grants program allocates one-time $50,000 donations to selected projects and startups.
+
+* [Telos WPS](https://medium.com/telos-foundation/telos-user-guide-understanding-worker-proposals-ef5df8ee2a17) sponsors a variety of projects, with primary target of promoting Telos blockchain and increasing its service.
 
 ## User tools
 
