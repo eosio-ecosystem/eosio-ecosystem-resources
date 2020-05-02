@@ -8,6 +8,8 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 
 * [Telos WPS](https://medium.com/telos-foundation/telos-user-guide-understanding-worker-proposals-ef5df8ee2a17) sponsors a variety of projects, with primary target of promoting Telos blockchain and increasing its service.
 
+* [WAX Labs](https://labs.wax.io/) is a Worker Proposal System, funding projects that have a clear positive and measurable impact on the WAX blockchain ecosystem with up to $100,000 worth of WAX tokens. Projects are voted for by token holders.
+
 ## User tools
 
 * [Scatter](https://get-scatter.com/) is the most popular desktop wallet and security manager for EOSIO accounts.
@@ -35,6 +37,8 @@ This is a curated list of resources and projects that are aiming multiple EOSIO-
 * [escrowescrow](https://github.com/eos-geneva/escrowescrow), a basic and universal escrow contract that lets buyer and seller agree on goods delivery and payment conditions and execute the deal in a safe manner.
 
 * [SimpleAssets](https://github.com/CryptoLions/SimpleAssets) is an NFT smart contract developed by CryptoLions.
+
+* [AtomicAssets](https://github.com/pinknetworkx/atomicassets-contracts) is an NFT standard developed by pink.network.
 
 
 ## Block producer tools
